@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325954661538",
+    "project_id": "swasthva",
+    "storage_bucket": "swasthva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325954661538:android:c27bafe3c468b760d77bfb",
+        "android_client_info": {
+          "package_name": "com.example.Swasthva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325954661538-0h5tenun413tqv6md0eou1r31suik0vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9sRo3sesz9Nr81APAPdOGJMfixcAaiBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325954661538-0h5tenun413tqv6md0eou1r31suik0vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
